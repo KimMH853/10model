@@ -1,7 +1,6 @@
 package com.model2.mvc.common;
 
-//깃 머지 테스트 추가
-//==> PageNavigation 을 위한 Bean
+//2022.04.30 깃테스트
 public class Page {
 	
 	///Field
