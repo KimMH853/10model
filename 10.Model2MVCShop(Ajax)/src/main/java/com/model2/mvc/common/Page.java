@@ -1,6 +1,6 @@
 package com.model2.mvc.common;
 
-
+//깃 확인
 //==> PageNavigation 을 위한 Bean
 public class Page {
 	
