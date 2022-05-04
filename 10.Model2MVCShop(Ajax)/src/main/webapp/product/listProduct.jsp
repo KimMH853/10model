@@ -98,6 +98,8 @@
 				
 		});
 			
+			
+			
 			</c:if>
 			
 			//==> UI 수정 추가부분  :  userId LINK Event End User 에게 보일수 있도록 
@@ -116,6 +118,7 @@
 			//console.log ( $(".ct_list_pop:nth-child(6)" ).html() ); //==> ok
 			//console.log ( $(".ct_list_pop:nth-child(7)" ).html() ); 
 		});	
+		
 	</script>		
 </head>
 
